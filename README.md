@@ -4,3 +4,8 @@
 ```javascript
 <script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/MiniDialog/MiniDialog.js"></script>
 ```
+
+
+```javascript
+<script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/html2md.js"></script>
+```
