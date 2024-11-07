@@ -99,7 +99,7 @@
 		.mini-dialog-mask-hide{animation:MiniDialogMaskHide .35s;animation-fill-mode:forwards}
 		.mini-dialog-wrapper{position:absolute;top:50%;left:50%;background:#fff;overflow:hidden;transform:translate(-50%,-50%);box-shadow:rgba(0,0,0,.12) 0 0 12px;pointer-events:auto}
 		.mini-dialog-wrapper-fullscreen{width:100%!important;height:100%!important;border-radius:0!important}
-		.mini-dialog-wrapper-show{animation:MiniDialogWrapperShow .35s;animation-fill-mode:forwards}
+		.mini-dialog-wrapper-show{animation:MiniDialogWrapperShow .35s}
 		.mini-dialog-wrapper-hide{animation:MiniDialogWrapperHide .35s;animation-fill-mode:forwards}
 		.mini-dialog-header{overflow:hidden;border-bottom:#e6e6e6 solid 1px}
 		.mini-dialog-header-move{cursor:grab}
