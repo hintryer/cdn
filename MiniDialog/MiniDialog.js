@@ -108,7 +108,7 @@
 		.mini-dialog-header>i{display:block;float:right;width:20px;height:20px;line-height:20px;margin:17px 13px 0 0;font-style:normal;text-align:center;cursor:pointer;opacity:.35;transition:.2s}
 		.mini-dialog-header>i:hover{opacity:1}
 		.mini-dialog-header-drag{cursor:move}
-		.mini-dialog-main{position:relative;padding:15px 0;min-height:100px;max-height:350px;font-size:14px;line-height:160%;overflow:auto;word-break:break-all;color:#292929;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+		.mini-dialog-main{position:relative;padding:15px 0;min-height:100px;max-height:300px;font-size:14px;line-height:160%;overflow:auto;word-break:break-all;color:#292929;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
 		.mini-dialog-main>div{overflow:hidden;margin:0 15px}
 		.mini-dialog-main>iframe,.mini-dialog-main>img{display:block;position:absolute;top:0;left:0;width:100%;height:100%}
 		.mini-dialog-main.mini-dialog-mobile-main{padding:10px 0}
