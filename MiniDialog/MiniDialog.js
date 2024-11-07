@@ -124,7 +124,7 @@
 		.mini-dialog-prompt input{margin:10px 0}
 		.mini-dialog-prompt input:hover,.mini-dialog-prompt textarea:hover{border-color:rgba(25,182,248,.6)}
 		.mini-dialog-prompt input:focus,.mini-dialog-prompt textarea:focus{border-color:#19b6f8}
-		.mini-dialog-prompt textarea{resize:vertical;min-height:18px}
+		.mini-dialog-prompt textarea{resize:vertical;min-height:120px}
 		.mini-dialog-prompt textarea::-webkit-input-placeholder{display:block;height:17px;line-height:17px}
 		.mini-dialog-prompt input::-webkit-input-placeholder,.mini-dialog-prompt textarea::-webkit-input-placeholder{color:#aaa}
 		.mini-dialog-image-prev,.mini-dialog-image-next{opacity:0;transition:.2s}
