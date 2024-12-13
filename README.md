@@ -15,3 +15,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/top.js"></script>
 ```
+## 一键到顶2
+```javascript
+<script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/gotop.js"></script>
+```
