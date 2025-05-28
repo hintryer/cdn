@@ -24,3 +24,7 @@
 ```javascript
 <script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/lunar.js"></script>
 ```
+## ICS文件生成  ical-generator库
+```javascript
+<script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/popup.js"></script>
+```
