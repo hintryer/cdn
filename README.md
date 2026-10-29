@@ -20,19 +20,20 @@
 
 [来源仓库](https://github.com/Script-Hub-Org/Script-Hub)
 [jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/CamScanner.module?raw)
-[jsDelivr 导入](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/CamScanner.module?raw)
+[jsDelivr 导入](shadowrocket://add/sub://https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/CamScanner.module?raw)
 
 ### script-hub.rocket.module
 
 [jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/script-hub.rocket.module?raw)
-[jsDelivr 导入](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/script-hub.rocket.module?raw)
+[jsDelivr 导入](shadowrocket://add/sub://https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/script-hub.rocket.module?raw)
 
 ## book
 
 ### 书源
 
 [jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/book/BookSource.json?raw)
-[jsDelivr 导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/BookSource.json?raw)
+
+<a href="yuedu://import/bookSource?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json">jsDelivr 导入</a>
 
 ### 订阅源
 
@@ -94,7 +95,6 @@
 ```html
 <script src="https://cdn.jsdelivr.net/gh/hintryer/cdn/js/popup.js"></script>
 ```
-
 
 ## 使用方式
 
