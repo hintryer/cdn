@@ -12,39 +12,6 @@
 - `assets/`：资源文件、教程资料和存档内容
 - `ssr/`：脚本模块或站点脚本文件
 
-## SSR 模块
-
-以下为 `ssr/` 目录下文件的 jsDelivr 引用方式：
-
-### CamScanner.module
-
-[来源仓库](https://github.com/Script-Hub-Org/Script-Hub)
-[jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/CamScanner.module?raw)
-[jsDelivr 导入](shadowrocket://add/sub://https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/CamScanner.module?raw)
-
-### script-hub.rocket.module
-
-[jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/script-hub.rocket.module?raw)
-[jsDelivr 导入](shadowrocket://add/sub://https://cdn.jsdelivr.net/gh/hintryer/cdn/ssr/script-hub.rocket.module?raw)
-
-## book
-
-### 书源
-
-[jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/book/BookSource.json?raw)
-
-<a href="yuedu://import/bookSource?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json">jsDelivr 导入</a>
-
-### 订阅源
-
-[jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json?raw)
-[jsDelivr 导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/RssSource.json?raw)
-
-### 净化源
-
-[jsDelivr 直链](https://cdn.jsdelivr.net/gh/hintryer/cdn/book/ReplaceRule.json?raw)
-[jsDelivr 导入](yuedu://replaceRule/importonline?src=https://cdn.jsdelivr.net/gh/hintryer/cdn/book/ReplaceRule.json?raw)
-
 ## 常用脚本
 
 ### 1. MiniDialog

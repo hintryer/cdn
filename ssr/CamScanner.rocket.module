@@ -1,0 +1,10 @@
+#!name=CamScanner
+#!desc=解锁部分高级特权
+
+[Script]
+CamScanner = type=http-response, pattern=^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\?, script-path=https://cdn.jsdelivr.net/gh/hintryer/cdn/js/CamScanner.js, requires-body=true, max-size=-1, timeout=60
+
+CamScanner = type=http-response, pattern=https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\?, script-path=https://cdn.jsdelivr.net/gh/hintryer/cdn/js/CamScanner.js, requires-body=true, max-size=0
+
+[MITM]
+hostname = %APPEND% ap*.intsig.net
