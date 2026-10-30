@@ -14,6 +14,10 @@
 
 ## 常用脚本
 
+```text
+https://cdn.jsdelivr.net/gh/hintryer/cdn/ics/my.ics
+```
+
 ### 1. MiniDialog
 
 用于页面弹窗提示和自定义对话框。
