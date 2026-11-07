@@ -134,8 +134,8 @@
       "kind": "meta[property=og:novel:category]@content||.con_top a.1@text"
     },
     "ruleToc": {
-      "chapterList": "id.newlist@tag.a",
-      "chapterUrl": "href",
+      "chapterList": "#newlist dd",
+      "chapterUrl": "@href",
       "chapterName": "@title"
     },
     "header": "{\n  \"User-Agent\": \"Mozilla\/5.0 (Linux; Android 12; OXF-AN00 Build\/HUAWEIOXF-AN00; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/114.0.5735.196 Mobile Safari\/537.36\",\n  \"Accept-Language\": \"zh-CN,zh;q=0.9,en;q=0.8\",\n  \"Referer\": \"https:\/\/www.min-yuan.com\/\"\n}",
